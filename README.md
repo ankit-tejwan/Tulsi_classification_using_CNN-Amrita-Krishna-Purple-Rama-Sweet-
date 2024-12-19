@@ -10,4 +10,7 @@
 
 Tulsi classes [Amrita Krishna Purple Rama Sweet]
 
+# Download Model file 
+https://1drv.ms/u/c/16bc5a926085491d/EQ4UKCZRibBPp9RTrZohISABnwYTezIha4fGbNlvhwpwSw?e=PDGWqf
+
 ![Screenshot 2024-12-19 134554](https://github.com/user-attachments/assets/9c988a1b-f0fd-460a-bc5e-88a4c5726cd5)
