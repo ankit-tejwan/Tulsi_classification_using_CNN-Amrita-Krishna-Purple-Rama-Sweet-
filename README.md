@@ -1,4 +1,5 @@
-# Tulsi_classification_using_CNN-Amrita-Krishna-Purple-Rama-Sweet
+# Tulsi_classification_using_CNN
+[ Amrita, Krishna, Purple, Rama, Sweet ]
 
 
 
